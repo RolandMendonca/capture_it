@@ -19,18 +19,18 @@
                                             <li><a href="#">Categories<i class="ti-angle-down"></i></a>
                                                 <ul class="submenu">
                                                     
-                                                    <li><a href="Listings.html">Photography</a></li>
-                                                    <li><a href="elements.html">Videography</a></li>
-                                                    <li><a href="single_listings.html">Arial</a></li>
+                                                    <li><a href="./Categories/Listings.html">Photography</a></li>
+                                                    <li><a href="./Categories/elements.html">Videography</a></li>
+                                                    <li><a href="./Categories/single_listings.html">Arial</a></li>
                                                 </ul></li>
                                             
                                                 
                                                 <li><a href="about.html">about</a></li>
                                                 <li><a href="#">Gallery <i class="ti-angle-down"></i></a>
                                                     <ul class="submenu">
-                                                        <li><a href="blog.html">Photography</a></li>
-                                                        <li><a href="single-blog.html">Videography</a></li>
-                                                        <li><a href="single-blog.html">Arial view</a></li>
+                                                        <li><a href="./Gallery/blog.html">Photography</a></li>
+                                                        <li><a href="./Gallery/single-blog.html">Videography</a></li>
+                                                        <li><a href="./Gallery/single-blog.html">Arial view</a></li>
                                                     </ul>
                                                 </li>
                                             <li><a href="#Contact">Contact</a></li>
@@ -41,8 +41,8 @@
                             <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                                 <div class="Appointment">
                                     <div class="book_btn d-none d-lg-block">
-                                        <a href="login.html">Log In</a>
-                                        <a href="login.html">Sign Up</a>
+                                        <a href="./login/login.php">Log In</a>
+                                        <a href="./login/register.php">Sign Up</a>
                                     </div>
                                 </div>
                             </div>

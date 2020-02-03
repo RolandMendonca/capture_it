@@ -15,7 +15,7 @@
                                 <div class="main-menu  d-none d-lg-block">
                                     <nav>
                                         <ul id="navigation">
-                                            <li><a href="index.html">home</a></li>
+                                            <li><a href="index.php">home</a></li>
                                             <li><a href="#">Categories<i class="ti-angle-down"></i></a>
                                                 <ul class="submenu">
                                                     

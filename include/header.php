@@ -25,7 +25,8 @@
                                                 </ul></li>
                                             
                                                 
-                                                <li><a href="about.html">about</a></li>
+                                                <li><a href="about.php">about</a></li>
+                                            
                                                 <li><a href="#">Gallery <i class="ti-angle-down"></i></a>
                                                     <ul class="submenu">
                                                         <li><a href="./Gallery/blog.html">Photography</a></li>
@@ -41,8 +42,8 @@
                             <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                                 <div class="Appointment">
                                     <div class="book_btn d-none d-lg-block">
-                                        <a href="./login/login.php">Log In</a>
-                                        <a href="./login/register.php">Sign Up</a>
+                                        <a href="./loginRegister/login.php">Log In</a>
+                                        
                                     </div>
                                 </div>
                             </div>

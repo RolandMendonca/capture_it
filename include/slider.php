@@ -8,16 +8,16 @@
                             <p>Find The Experts</p>
                             <h3>CaptureIT</h3>
                             <div class="search_form">
-                                <form action="#">
+                                <form action="search.php">
                                     <div class="row align-items-center">
                                         <div class="col-xl-5 col-md-4">
                                             <div class="input_field">
-                                                <input type="text" placeholder="What are you finding?">
+                                                <input type="text" placeholder="What are you finding?" id="category" name="category">
                                             </div>
                                         </div>
                                         <div class="col-xl-4 col-md-4">
                                             <div class="input_field location">
-                                                <input type="text" placeholder="Location">
+                                                <input type="text" placeholder="Location" id="location" name="location">
                                             
                                             </div>
                                         </div>

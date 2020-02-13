@@ -18,23 +18,7 @@ include("./include/header.php")
 ?>
 
 
-    <?php
-include("./include/slider.php")
-
-?>
-    <?php
-include("./include/categories.php")
-
-?>
-
-    <?php
-include("./include/sprayed.php")
-
-?>
-    <?php
-include("./include/clientexp.php")
-
-?>
+ 
 
 
 
